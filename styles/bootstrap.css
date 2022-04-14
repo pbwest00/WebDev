@@ -1,0 +1,28 @@
+h2{
+    color: lightsalmon(255, 255, 255);
+}
+
+a{
+    color: lightsalmon;
+    font-size: xx-large;
+}
+
+li{
+    color: lightsalmon;
+    font-size: xx-large;
+}
+
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    background-color:rgb(129, 72, 2);
+    color:darksalmon;
+}
+ul{
+color: lightsalmon;
+}
+
+.center{
+    align-items: center;
+}

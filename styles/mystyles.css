@@ -1,0 +1,39 @@
+body{
+    background-image: url(../Images/Sand.jpg);
+color:navy;
+font-style: oblique;
+} 
+
+h1{
+    color:rgb(255, 255, 255);
+    font-style: oblique;
+}
+
+a{
+font-size: xx-large;
+color: rgb(255, 255, 255) (253, 253, 253);
+font-style: oblique;
+}
+
+.center{
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%
+}
+
+.center1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    height: 90%;
+}
+
+.copyright{
+    color: white;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
